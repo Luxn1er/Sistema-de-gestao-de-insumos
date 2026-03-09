@@ -9,7 +9,7 @@
 ![Pandas](https://img.shields.io/badge/Data-Pandas-150458.svg)
 
 
-Este projeto é uma solução de \\Controle de Insumos e Logística\\ desenvolvida para otimizar o fluxo de estoque. O sistema foca em integridade de dados e continuidade de negócio via espelhamento em nuvem.
+Este projeto é uma solução de Controle de Insumos e Logística desenvolvida para otimizar o fluxo de estoque. O sistema foca em integridade de dados e continuidade de negócio via espelhamento em nuvem.
 
 
 
@@ -17,7 +17,7 @@ Este projeto é uma solução de \\Controle de Insumos e Logística\\ desenvolvi
 
 
 
-\  Visualização do Dashboard
+  Visualização do Dashboard
 
 ![Status do Estoque](./img/dashboard.png)
 ![Status do Estoque](./img/dashboard2.png)
