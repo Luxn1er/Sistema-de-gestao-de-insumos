@@ -1,0 +1,11 @@
+*.xlsx
+*.xls
+*.csv
+
+__pycache__/
+.streamlit/
+venv/
+.DS_Store
+
+backup/
+data/
