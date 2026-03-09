@@ -22,9 +22,9 @@ Este projeto é uma solução de \*\*Controle de Insumos e Logística\*\* desenv
 
 \##  Visualização do Dashboard
 
-!\[Status do Estoque](./img/dashboard.png)
+!\[Status do Estoque]("C:\Users\Lenovo\Desktop\estoque.url\produção\img\dashboard.png")
 
-!\[Status do Estoque](./img/dashboard.png)
+!\[Status do Estoque]("C:\Users\Lenovo\Desktop\estoque.url\produção\img\dashboard2.png")
 
 
 
